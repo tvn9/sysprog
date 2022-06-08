@@ -1,2 +1,2 @@
-# System Programming With Go
-Practice System Programming with Go
+# Systems Programming With Go
+Practice Systems Programming with Go
